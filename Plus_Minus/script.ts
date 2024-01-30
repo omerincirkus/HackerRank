@@ -1,4 +1,4 @@
-const arr: number[] = [1, 1, 0, -1, -1];
+let arr: number[] = [1, 1, 0, -1, -1];
 
 function plusMinus(arr: number[]): (string | number)[] {
     let positiveCount = 0;
